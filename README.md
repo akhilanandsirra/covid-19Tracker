@@ -1,8 +1,8 @@
 # COVID-19 Tracker
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![COVID-19 Tracker](https://user-images.githubusercontent.com/52598978/82084994-ecb4e780-9709-11ea-9633-b642246eec73.png)
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](http://akhilanandsirra.github.io/covid19tracker)
 
 ## Introduction
 
