@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-![COVID-19 Tracker](https://user-images.githubusercontent.com/52598978/82084994-ecb4e780-9709-11ea-9633-b642246eec73.png)
+![COVID-19 Tracker](https://user-images.githubusercontent.com/52598978/82085532-d6f3f200-970a-11ea-9d86-ae85044bc745.png)
 ### [Live Site](http://akhilanandsirra.github.io/covid19tracker)
 
 ## Introduction
