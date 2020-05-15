@@ -4,6 +4,8 @@
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
+## Introduction
+
 This project was created using React, Charts.JS and Material UI.
 
 API used: https://covid19.mathdro.id/api
