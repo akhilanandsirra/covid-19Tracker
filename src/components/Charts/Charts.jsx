@@ -77,7 +77,7 @@ const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
                 yAxes: [{ticks: {fontSize: 12, fontFamily: "'Roboto Condensed', sans-serif", fontColor: '#000', fontStyle: '500'}}],
                 xAxes: [{ticks: {fontSize: 12, fontFamily: "'Roboto Condensed', sans-serif", fontColor: '#000', fontStyle: '500'},gridLines: {
                     display: false,
-                    drawBorder: false
+                    drawBorder: false,
                 }}]
                 },
         }}
