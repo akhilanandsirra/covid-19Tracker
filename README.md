@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Devloped and designed a Covid-19 Tracker web-app to keep track of coronavirus cases around the world. A detailed card shows the extent of the coronavirus outbreak, with charts of the number of cases by country.
+Developed and designed a Covid-19 Tracker web-app to keep track of coronavirus cases around the world. A detailed card shows the extent of the coronavirus outbreak, with charts of the number of cases by country.
 
 This project was created using React, Charts.JS and Material UI.
 
