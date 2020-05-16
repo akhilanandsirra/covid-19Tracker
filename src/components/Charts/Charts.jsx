@@ -5,6 +5,7 @@ import { fetchDailyData } from '../../api';
 
 import styles from './Charts.module.css';
 
+
 const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
   const [dailyData, setDailyData] = useState({});
 
@@ -17,7 +18,7 @@ const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
 
     fetchMyAPI();
   }, []);
-
+  
   const barChart = (
     confirmed ? (
       <Bar
@@ -45,7 +46,6 @@ const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
         }}
       />
     ) : null
-
   );
 
   const lineChart = (
@@ -58,11 +58,15 @@ const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
             label: 'Infected',
             borderColor: 'rgba(255,7,58)',
             fill: false,
+            backgroundColor: 'rgba(255,7,58)',
+            hoverRadius: 5,
           }, {
             data: dailyData.map((data) => data.deaths),
             label: 'Deaths',
             borderColor: 'rgba(108,117,125)',
             fill: false,
+            backgroundColor: 'rgba(108,117,125)',
+            hoverRadius: 5,
           },
           ],
         }}
